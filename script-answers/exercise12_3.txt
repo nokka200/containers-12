@@ -1,0 +1,4 @@
+nano index.js
+console.log('Hello World');
+Ctrl + X
+y
