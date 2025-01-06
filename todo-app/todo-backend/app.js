@@ -16,3 +16,5 @@ app.use('/', indexRouter);
 app.use('/todos', todosRouter);
 
 module.exports = app;
+
+//startti komento MONGO_URL=mongodb://root:example@localhost:3456/the_database npm run dev
